@@ -119,6 +119,7 @@ Both scripts require
 - cv2
 - numpy
 - matplotlib
+
 In addition to that, to save the detected segmented coins we require
 - os
 
